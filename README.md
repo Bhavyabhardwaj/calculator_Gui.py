@@ -1,2 +1,2 @@
 # calculator_Gui.py
-A simple calculator.
+A simple calculator
